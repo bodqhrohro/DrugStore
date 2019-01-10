@@ -1,0 +1,10 @@
+enum {
+	COLUMN_ICON,
+	COLUMN_APPNAME,
+	COLUMN_DETAILS,
+	COLUMN_COUNT
+};
+
+#define INDENT 10
+#define MARGIN 10
+#define WIDTH 300
